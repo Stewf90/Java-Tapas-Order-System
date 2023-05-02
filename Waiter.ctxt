@@ -1,0 +1,26 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Waiter()
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ Waiter\r\n\ if\ we\ don't\ know\ any\ details\r\n
+comment1.params=aName
+comment1.target=Waiter(java.lang.String)
+comment1.text=\r\n\ A\ constructor\ for\ objects\ of\ class\ Waiter\r\n\ if\ we\ know\ their\ name\r\n
+comment2.params=aName\ aService
+comment2.target=Waiter(java.lang.String,\ int)
+comment2.text=\r\n\ Constructor\ for\ waiter\ if\ we\ know\ both\r\n\ their\ name\ and\ years\ of\ service\r\n
+comment3.params=aName
+comment3.target=void\ setName(java.lang.String)
+comment3.text=\r\n\ Setter\ for\ a\ waiter's\ name\r\n
+comment4.params=
+comment4.target=java.lang.String\ getName()
+comment4.text=\r\n\ Getter\ for\ a\ waiter's\ name\r\n
+comment5.params=aService
+comment5.target=void\ setYearsService(int)
+comment5.text=\r\n\ Setter\ for\ the\ waiter's\ years\ of\ \r\n\ service\ at\ the\ restaurant\r\n
+comment6.params=
+comment6.target=int\ getYearsService()
+comment6.text=\r\n\ Getter\ for\ a\ waiter's\ years\r\n\ of\ service\ at\ the\ restaurant\r\n
+comment7.params=
+comment7.target=java.lang.String\ toString()
+comment7.text=\r\n\ Returns\ a\ description\ of\ this\ object\ as\ a\ string\r\n\ (in\ this\ case,\ the\ name\ of\ the\ waiter\ and\ their\r\n\ years\ of\ service\ at\ the\ restaurant)\r\n
+numComments=8
